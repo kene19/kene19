@@ -8,9 +8,9 @@
 
     .Back-End: Node.js, Express
 
-    .Database: MongoDB, MySQL, PostgreSQL
+    .Database: MongoDB, MySQL
 
-    .Tools: Git, Docker, Webpack
+    .Tools: Git, Webpack
   
 
 <!---
