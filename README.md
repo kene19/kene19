@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m I'm a passionate Web Developer with a love for building interactive and dynamic web applications.<br><br>🎲 Fun fact:  I enjoy bringing innovative ideas to life through code.<br><br>🎯 Goals: solving problem with my programming skills</p>
+<p align="left">👀 I’m a passionate Web Developer with a love for building interactive and dynamic web applications.<br><br>🎲 Fun fact:  I enjoy bringing innovative ideas to life through code.<br><br>🎯 Goals: Solving Problem with My Programming skills</p>
 
 ###
 
